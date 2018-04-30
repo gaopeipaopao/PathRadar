@@ -11,7 +11,8 @@ import android.util.Log;
 import android.view.View;
 
 /**
- * 9个边的雷达图
+ * 5个边的雷达图
+ * canvas Path drawText Paint
  * Created by gaope on 2018/4/30.
  */
 
